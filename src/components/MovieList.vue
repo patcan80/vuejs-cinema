@@ -34,6 +34,9 @@
         },
         components: {
             MovieItem
+        },
+        created(){
+            
         }
     }
 </script>
